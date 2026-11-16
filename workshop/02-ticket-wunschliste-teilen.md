@@ -2,7 +2,7 @@
 
 ## User Story
 
-> Als Besitzer meiner Weihnachtswunschliste möchte ich einen Link kopieren können, damit Freunde und Familie die Liste **ansehen** können. Mit einem 4-stelligen Zahlencode soll die Wunschliste geschützt werden können.
+> Als Besitzer meiner Weihnachtswunschliste möchte ich einen Link kopieren können, damit Freunde und Familie die Liste **ansehen** können. Für den Bearbeitungsmodus soll nun ein 4-stelliger Zahlencode eingegeben werden müssen.
 
 ## Was genau gebaut werden soll
 
