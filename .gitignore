@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.angular/
+coverage/
+*.tsbuildinfo
+
+# Environment files (keep examples)
+.env
+.env.*
+!.env.example
+
+# Local data files (for later workshop persistence)
+*.sqlite
+*.sqlite3
+*.db
+data/*.json
+!data/.gitkeep
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+*.log
+npm-debug.log*
