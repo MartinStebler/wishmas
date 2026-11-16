@@ -2,8 +2,6 @@
 
 Minimales Monorepo mit Angular-Frontend und Express-Backend für den Workshop «AI Christmas Challenge». Es stellt nur Infrastruktur und einen Health-Check bereit – **keine** Wunschlistenfunktionen.
 
-Die fachliche Anwendung sowie `CLAUDE.md` und Feature-Anforderungen werden erst im Workshop erarbeitet.
-
 ## Voraussetzungen
 
 - **Node.js** LTS `24` (geprüft mit **v24.15.0**)
